@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "pdf-toolkit-green-nine.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pdf-toolkit-green-nine.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://pdf-toolkit-green-nine.vercel.app/favicon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "PDF Master",
+  "description": "It is a pdf manipulator tool"
+}

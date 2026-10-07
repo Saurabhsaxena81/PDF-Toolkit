@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PDF Master</string>
+    <string name="title_activity_main">PDF Master</string>
+    <string name="package_name">com.pdfmaster.app</string>
+    <string name="custom_url_scheme">com.pdfmaster.app</string>
+</resources>
